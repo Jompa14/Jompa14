@@ -2,8 +2,8 @@
 
 I am a former school teacher. And I began to code late but I am loving it!!
 
-- :octocat: I’m currently coding with JavaScript, JQuery, CSS, Bootstrap and Python.
-- 🌱 I’m currently learning NodeJS and Vue.Js.
+- :octocat: I’m currently coding with JavaScript, Vue.Js, JQuery, CSS, Bootstrap and Python.
+- 🌱 I’m currently learning NodeJS and TypeScript.
 
 - 🌎 Please, visit my [website](https://jompa14.github.io/JoaoWebSite/) to see my work.
 - 💚 I am part of a startup that supports the cause of sustainability through this [app](https://play.google.com/store/apps/details?id=com.sorteapp).
